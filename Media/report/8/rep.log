@@ -1,0 +1,317 @@
+This is e-pTeX, Version 3.14159265-p3.8.2-190709-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.7.20)  27 OCT 2020 16:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"e:/OneDrive - 岡山大学/3年次/3学期/実験B/report/8/rep"
+(e:/OneDrive - 岡山大学/3年次/3学期/実験B/report/8/rep.tex
+pLaTeX2e <2019-04-06> (based on LaTeX2e <2018-12-01>)
+(d:/app/w32tex/share/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2019/04/02 v1.8b Standard pLaTeX class
+\c@@paper=\count83
+(d:/app/w32tex/share/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2019/04/02 v1.8b Standard pLaTeX file (size option)
+)
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 614.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count92
+) (d:/app/w32tex/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/app/w32tex/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (d:/app/w32tex/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (d:/app/w32tex/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (d:/app/w32tex/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+ (d:/app/w32tex/share/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+) (./rep.aux)
+\openout1 = `rep.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 31.
+File: 1-1.png Graphic file (type bmp)
+<1-1.png>
+File: 1-2.png Graphic file (type bmp)
+<1-2.png>
+File: 1-3.png Graphic file (type bmp)
+<1-3.png>
+
+Overfull \hbox (14.41165pt too wide) in paragraph at lines 31--54
+[][][][] 
+ []
+
+[1
+
+]
+File: 1-4.png Graphic file (type bmp)
+<1-4.png>
+File: 1-4-1.png Graphic file (type bmp)
+<1-4-1.png>
+File: 1-4-2.png Graphic file (type bmp)
+<1-4-2.png>
+
+Overfull \hbox (14.41165pt too wide) in paragraph at lines 67--87
+[][][][] 
+ []
+
+File: 1-4-3.png Graphic file (type bmp)
+<1-4-3.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2]
+File: 1-5.jpg Graphic file (type bmp)
+<1-5.jpg>
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 131.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 131.
+File: 1-6.jpg Graphic file (type bmp)
+<1-6.jpg>
+File: 1-7.jpg Graphic file (type bmp)
+<1-7.jpg>
+File: 1-8.jpg Graphic file (type bmp)
+<1-8.jpg>
+ [3] [4]
+File: 1-9.jpg Graphic file (type bmp)
+<1-9.jpg>
+File: 1-10.jpg Graphic file (type bmp)
+<1-10.jpg>
+File: 1-11.jpg Graphic file (type bmp)
+<1-11.jpg>
+ [5]
+File: 2-1.png Graphic file (type bmp)
+<2-1.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6]
+File: 2-2.png Graphic file (type bmp)
+<2-2.png>
+ [7]
+File: 2-3.jpg Graphic file (type bmp)
+<2-3.jpg>
+File: 2-4.png Graphic file (type bmp)
+<2-4.png>
+File: 2-5.png Graphic file (type bmp)
+<2-5.png>
+
+Overfull \hbox (15.65001pt too wide) in paragraph at lines 291--307
+[][][][] 
+ []
+
+[8]
+File: 2-6.png Graphic file (type bmp)
+<2-6.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9]
+File: 2-7.png Graphic file (type bmp)
+<2-7.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10]
+File: 2-8.jpg Graphic file (type bmp)
+<2-8.jpg>
+ [11] [12] [13]
+Overfull \hbox (22.53036pt too wide) in paragraph at lines 519--519
+[]  \OT1/cmtt/m/n/10.95 B[4] = (B[4]-B[5]*Elem(mtR,4,5)-B[6]*Elem(mtR,4,6)-B[7]*Elem(mtR,4,7)) / Elem(mtR,4,4);[] 
+ []
+
+File: 3-1.jpg Graphic file (type bmp)
+<3-1.jpg>
+[14] [15]
+File: 3-2.jpg Graphic file (type bmp)
+<3-2.jpg>
+ [16]
+File: 3-3.jpg Graphic file (type bmp)
+<3-3.jpg>
+File: 3-4.jpg Graphic file (type bmp)
+<3-4.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 635--647
+[][]$[]$[] []$[]$[] 
+ []
+
+File: 3-5.jpg Graphic file (type bmp)
+<3-5.jpg>
+
+Overfull \hbox (24.81715pt too wide) in paragraph at lines 652--653
+ [][] 
+ []
+
+[17] [18]
+File: 4-1.jpg Graphic file (type bmp)
+<4-1.jpg>
+ [19]
+File: 4-2.jpg Graphic file (type bmp)
+<4-2.jpg>
+File: 4-3.jpg Graphic file (type bmp)
+<4-3.jpg>
+File: 4-4.jpg Graphic file (type bmp)
+<4-4.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 761--773
+[][]$[]$[] []$[]$[] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20]
+File: w2.jpg Graphic file (type bmp)
+<w2.jpg>
+File: w3.jpg Graphic file (type bmp)
+<w3.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 788--798
+[][]$[]$[] []$[]$[] 
+ []
+
+File: w4.jpg Graphic file (type bmp)
+<w4.jpg>
+File: w5.jpg Graphic file (type bmp)
+<w5.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 800--810
+[][]$[]$[] []$[]$[] 
+ []
+
+File: w6.jpg Graphic file (type bmp)
+<w6.jpg>
+File: w7.jpg Graphic file (type bmp)
+<w7.jpg>
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 812--822
+[][]$[]$[] []$[]$[] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21] [22] [23]
+File: 5-1.jpg Graphic file (type bmp)
+<5-1.jpg>
+File: 5-2.jpg Graphic file (type bmp)
+<5-2.jpg>
+ [24] [25]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 968.
+ (d:/app/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 968.
+ [26] [27]
+File: 6-1.jpg Graphic file (type bmp)
+<6-1.jpg>
+ [28] [29]
+Overfull \hbox (32.0097pt too wide) in paragraph at lines 1090--1090
+[]            \OT1/cmtt/m/n/10.95 j = (int)((long long)rand()*(MAX-i)/(RAND_MAX+1LL))+i; // \JY1/mc/m/n/10.95 乱数関数は \OT1/cmtt/m/n/10.95 stdlib.h \JY1/mc/m/n/10.95 で
+ []
+
+[30] [31]
+Overfull \hbox (1.80515pt too wide) in paragraph at lines 1161--1161
+[]            \OT1/cmtt/m/n/10.95 z_prime = H[2][0] * x + H[2][1] * y + H[2][2], // \JY1/mc/m/n/10.95 変換行列と \OT1/cmtt/m/n/10.95 (x,y,1)^T \JY1/mc/m/n/10.95 の積
+ []
+
+
+Overfull \hbox (23.05951pt too wide) in paragraph at lines 1161--1161
+[]            \OT1/cmtt/m/n/10.95 dv = (y_prime/z_prime) -v; // (x,y) \JY1/mc/m/n/10.95 を変換した座標 \OT1/cmtt/m/n/10.95 (\JY1/mc/m/n/10.95 第 \OT1/cmtt/m/n/10.95 2 \JY1/mc/m/n/10.95 回の概要を参照\OT1/cmtt/m/n/10.95 ) \JY1/mc/m/n/10.95 と \OT1/cmtt/m/n/10.95 (u,v) \JY1/mc/m/n/10.95 の
+ []
+
+File: 7-1.jpg Graphic file (type bmp)
+<7-1.jpg>
+
+Overfull \hbox (24.81715pt too wide) in paragraph at lines 1167--1168
+ [][] 
+ []
+
+[32] [33]
+File: 8-1.jpg Graphic file (type bmp)
+<8-1.jpg>
+
+Overfull \hbox (24.81715pt too wide) in paragraph at lines 1210--1211
+ [][] 
+ []
+
+File: 8-2.jpg Graphic file (type bmp)
+<8-2.jpg>
+
+Overfull \hbox (24.81715pt too wide) in paragraph at lines 1218--1219
+ [][] 
+ []
+
+[34] [35] [36] [37] [38] [39] [40] [41] [42] (./rep.aux) ) 
+Here is how much of TeX's memory you used:
+ 916 strings out of 493215
+ 11901 string characters out of 6145920
+ 93280 words of memory out of 5000000
+ 4865 multiletter control sequences out of 15000+600000
+ 16070 words of font info for 63 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 25i,11n,21p,597b,446s stack positions out of 5000i,500n,10000p,500000b,80000s
+
+Output written on rep.dvi (42 pages, 90716 bytes).

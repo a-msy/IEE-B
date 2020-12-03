@@ -1,0 +1,10 @@
+INFO: latexindent.exe version 3.7, 2019-07-13, a script to indent .tex files
+      latexindent.exe lives here: D:/app/w32tex/bin/
+      Thu Oct 15 15:34:31 2020
+      Filename: e:/OneDrive - 岡山大学/3年次/3学期/実験B/report/5/__latexindent_temp.tex
+INFO: Processing switches:
+      -y|--yaml: YAML settings specified via command line
+      -c|--cruft: cruft directory
+INFO: Directory for backup files and e:/OneDrive - 岡山大学/3年次/3学期/実験B/report/5/indent.log: e:/OneDrive - 岡山大学/3年次/3学期/実験B/report/5/
+INFO: YAML settings read: defaultSettings.yaml
+      Reading defaultSettings.yaml from D:/app/w32tex/bin/defaultSettings.yaml
